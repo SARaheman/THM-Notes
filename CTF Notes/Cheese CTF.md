@@ -1,5 +1,6 @@
 - Connect to THM Network 
 - Nmap cheese - nmap cheese.thm -T5 -v 
 	- -v -vv -vvv  verbosity level (the amount of details )[[Nmap]]
-- we use caido - similar to burb suit [[web-security tools]]
+- we use caido - similar to burb suit [[web-security tools]] intercept the login page 
+- dirsearch - [[Web path scnners]] we check different word lists to find any files connected paths
 - 
