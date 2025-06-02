@@ -1,0 +1,4 @@
+- Connect to THM Network 
+- Nmap cheese - nmap cheese.thm -T5 -v 
+	- -v -vv -vvv  verbosity level (the amount of details )
+- 
