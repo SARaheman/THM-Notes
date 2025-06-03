@@ -1,0 +1,5 @@
+-> target computer -> network swiss army knife 
+-> outside of home network 
+-> remote access to the computer 
+-> Target connects to us - instead of we connecting to target . to bypass firewall (protects the network )
+-> why firewall blocks anything that going in through it . but allows anything going out of it 
